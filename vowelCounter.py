@@ -9,4 +9,4 @@ for i in s:
     if i in vowel:
         count += 1
 
-print('Number of vowels: %s' %count)
+print('Number of vowels: ', count)
